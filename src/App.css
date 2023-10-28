@@ -1,0 +1,65 @@
+@media screen and (max-width: 400px) {
+  #features {
+    padding: 20px;
+    width: 111%;
+  }
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #portfolio {
+    width: 110%;
+  }
+}
+
+
+/* Navbar */
+.navbar-header .navbar-brand {
+  color: white !important;
+  text-shadow: 1px 1px 3px #6372ff, 0 0 3px #0000FF;
+}
+
+.navbar-transparent {
+  background: transparent !important;
+}
+
+.navbar-transparent .navbar-header .navbar-brand {
+  color: white !important;
+  text-shadow: unset;
+}
+
+.navbar-transparent .navbar-nav li a {
+  color: white !important;
+}
+
+/* Intro section */
+.intro {
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Custom css */
+.pb-50px {
+  padding-bottom: 50px !important;
+}
+
+.mt-50px {
+  margin-top: 50px !important;
+}
+
+.feature-card {
+  min-height: 300px;
+}
+
+@media screen and (max-width: 440px) {
+  .feature-card {
+    min-height: 500px;
+  } 
+}
