@@ -1,10 +1,10 @@
 {
   "Header": {
     "title": "Power Promos",
-    "paragraph": "Elevate your business with our expert consultants. Unlock growth and success in today's ever-changing market."
+    "paragraph": "Empower your online presence with our one-stop destination for web development, upgrades, and hosting services. Elevate your website to new heights with our expertise."
   },
   "About": {
-    "paragraph": "At Power Promos, we are passionate about helping businesses navigate the ever-changing landscape of the modern marketplace. With a deep commitment to excellence and a team of experienced consultants, we offer a range of services designed to empower your business and drive sustainable growth.",
+    "paragraph": "At Power Promos, we are passionate about shaping digital experiences and empowering businesses online. With a dedicated team of web experts, we bring your visions to life through innovative web development, reliable hosting, and seamless upgrades. Our mission is to help you succeed in the digital world, providing customized solutions that drive growth and impact. Discover a partner in us that's committed to your online journey's success.",
     "Why": [
       "Experience",
       "Data-Driven Insights",
@@ -20,47 +20,47 @@
   },
   "Gallery": [
     {
-      "title": "View",
+      "title": "Web Design",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "View",
+      "title": "E-commerce Solutions",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "View",
+      "title": "Mobile App Development",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "View",
+      "title": "SEO Optimization",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "View",
+      "title": "Content Management",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "View",
+      "title": "User Experience Enhancement",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "View",
+      "title": "Graphic Design",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "View",
+      "title": "Custom Coding",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "View",
+      "title": "Web Hosting",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
@@ -68,33 +68,33 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Web Development",
+      "text": "Tailored website creation from scratch, matching your unique brand identity and functionality needs."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-code",
+      "name": "Website Upgrades",
+      "text": "Enhance your existing site's performance, security, and user experience with our expert upgrades."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Web Hosting",
+      "text": "Reliable hosting solutions to ensure your website is always accessible and lightning-fast."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cart-arrow-down",
+      "name": "E-commerce Solutions",
+      "text": "Boost your online sales with custom e-commerce platforms, payment integrations, and inventory management."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-mobile",
+      "name": "Mobile Responsive Design",
+      "text": "Ensure your site looks and functions flawlessly on all devices for an exceptional user experience."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "SEO Optimization",
+      "text": "Improve your website's visibility on search engines, driving more organic traffic to your online business."
     }
   ],
   "Testimonials": [
@@ -152,12 +152,12 @@
     }
   ],
   "Contact": {
-    "address": "17772 Preston road Dallas Texas, 75252 USA",
+    "address": "1078 OLD OAKS Drive HEATH, TX 75126",
     "phone": "+1970 646 4925",
-    "email": "Info@solutionsintlllc.us",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "email": "adnannazar2023@gmail.com",
+    "facebook": "#",
+    "twitter": "#",
+    "youtube": "#"
   },
   "Features": [
     {

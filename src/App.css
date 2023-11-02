@@ -56,6 +56,10 @@
   margin-top: 50px !important;
 }
 
+.min-height-300px {
+  min-height: 300px;
+}
+
 .feature-card {
   min-height: 300px;
 }
